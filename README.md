@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=runtfint&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 <!--
 **runtfint/runtfint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
