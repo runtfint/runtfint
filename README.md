@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,go,json,postgresql,mysql,sass&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,tailwind,express,ionic)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,tailwind,express,ionic&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <!--
 **runtfint/runtfint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
