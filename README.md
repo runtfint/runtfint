@@ -1,10 +1,8 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=runtfint&theme=carbon&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,swift,html,css,sass,go,json,python,postgresql,mysql,&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,swift,html,css,sass,go,json,python,postgresql,mysql&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,tailwind,express,ionic&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,webpack,mongodb,wordpress,nodejs,nginx,prettier&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
 <!--
 **runtfint/runtfint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
